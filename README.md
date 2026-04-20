@@ -76,8 +76,8 @@ Compared with dashboards, Python enables:
 This makes Python the ideal tool for moving from reporting into insight generation.
 ---
 ## Related Projects
-* [SQL Analysis Version](https://lnkd.in/gQs_iyUW)
-* [Power BI Dashboard Version](https://github.com/pyaekhantkyaw/saleops_business_analysis/tree/41f4c9297dfba0449e1ddf9e0389262a6a7e33f6)
+* [Power BI Dashboard Version](https://lnkd.in/gQs_iyUW)
+* [SQL Analysis Version](https://github.com/pyaekhantkyaw/saleops_business_analysis/tree/41f4c9297dfba0449e1ddf9e0389262a6a7e33f6)
 ---
 ## Author
 [Pyae Khant Kyaw](https://www.linkedin.com/in/pyae-khant-kyaw-591726390/)
