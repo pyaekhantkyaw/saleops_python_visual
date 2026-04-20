@@ -1,6 +1,7 @@
 # SaleOps: Automobile Parts Sales Deep-Dive with Python
 ## Project Overview
-**SaleOps** is the Python analytics phase of a three-part business intelligence project series built using **SQL, Power BI, and Python**.
+
+**SaleOps** is the Python analytics phase of a three-part business intelligence project series built using **SQL, Power BI, and Python**.</br>
 While the SQL project focused on structured querying and the Power BI dashboard emphasized KPI monitoring, this notebook uses Python for a deeper analytical exploration of automobile parts sales performance.
 The objective is to uncover operational trends, revenue drivers, product performance patterns, and customer behavior through statistical analysis and advanced visual storytelling.
 ---
